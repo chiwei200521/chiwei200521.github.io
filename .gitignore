@@ -1,0 +1,5 @@
+test_*.*
+images/
+_site/
+.bundle/
+.jekyll-cache/
